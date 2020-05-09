@@ -1,0 +1,10 @@
+C:\Users\Dell\Desktop\sulis cuccok\programozás\ttsdemonic\ttsdemonic\bin\Debug\ttsdemonic.exe.config
+C:\Users\Dell\Desktop\sulis cuccok\programozás\ttsdemonic\ttsdemonic\bin\Debug\ttsdemonic.exe
+C:\Users\Dell\Desktop\sulis cuccok\programozás\ttsdemonic\ttsdemonic\bin\Debug\ttsdemonic.pdb
+C:\Users\Dell\Desktop\sulis cuccok\programozás\ttsdemonic\ttsdemonic\obj\Debug\ttsdemonic.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\sulis cuccok\programozás\ttsdemonic\ttsdemonic\obj\Debug\ttsdemonic.Form1.resources
+C:\Users\Dell\Desktop\sulis cuccok\programozás\ttsdemonic\ttsdemonic\obj\Debug\ttsdemonic.Properties.Resources.resources
+C:\Users\Dell\Desktop\sulis cuccok\programozás\ttsdemonic\ttsdemonic\obj\Debug\ttsdemonic.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\sulis cuccok\programozás\ttsdemonic\ttsdemonic\obj\Debug\ttsdemonic.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\sulis cuccok\programozás\ttsdemonic\ttsdemonic\obj\Debug\ttsdemonic.exe
+C:\Users\Dell\Desktop\sulis cuccok\programozás\ttsdemonic\ttsdemonic\obj\Debug\ttsdemonic.pdb

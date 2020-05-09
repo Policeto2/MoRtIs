@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ttsdemonic", "ttsdemonic\ttsdemonic.csproj", "{E26685DE-151C-4881-8A1C-171C612A0514}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E26685DE-151C-4881-8A1C-171C612A0514}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E26685DE-151C-4881-8A1C-171C612A0514}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E26685DE-151C-4881-8A1C-171C612A0514}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E26685DE-151C-4881-8A1C-171C612A0514}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D0B939D-E5BA-49B0-9B60-0890D1621202}
+	EndGlobalSection
+EndGlobal
